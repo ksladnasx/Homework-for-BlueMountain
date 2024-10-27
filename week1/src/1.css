@@ -1,0 +1,56 @@
+fieldset {
+    width: 600px;
+    height: 700px;
+    margin: auto;
+}
+
+legend {
+    text-align: center
+}
+
+textarea {
+    resize: none;
+    width: 400px;
+    height: 200px;
+}
+
+a:link {
+    color: yellowgreen;
+}
+
+a:visited {
+    color: red;
+}
+
+a:hover {
+    color: aqua;
+    background-color: blueviolet;
+}
+
+a:active {
+    color: orange;
+}
+
+body {
+    background-image: url(/红岩实战作业/第一次课后作业/preview.gif);
+}
+
+#flexboxs {
+    background-color: aqua;
+    width: 430px;
+    height: 220px;
+}
+
+#flb1 {
+    background-color: rgb(198, 182, 60);
+    width: 630px;
+    height: 420px;
+
+}
+
+#flb2 {
+    background-color: rgb(33, 221, 89);
+    width: 430px;
+    height: 420px;
+
+}
